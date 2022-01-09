@@ -18,9 +18,7 @@
 
 #pragma once
 
-// #if defined(KEYBOARD_idobao_id67_v1)
-//     #include "v1.h"
-#elif defined(KEYBOARD_idobao_id67_v2)
+#if defined(KEYBOARD_idobao_id67_v2)
     #include "v2.h"
 #endif
 
