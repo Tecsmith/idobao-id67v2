@@ -9,7 +9,7 @@ Idobao ID67 & ID67V2 (incl. ID67 Crystal & ID67 Bestype) 65% hot-swappable mecha
 * __Keyboard Maintainer:__
   <!--  - v1 - Tybera  -->
   - v2 - Vino Rodrigues ([@vinorodrigues](https://github.com/vinorodrigues))
-* __Hardware Supported:__ IDOBAO ID67 (v1 & v2)
+* __Hardware Supported:__ IDOBAO ID67 (<!-- v1 & -->v2)
 * __Hardware Availability:__
   <!--  - v1 - [Idobao.net](https://www.idobao.net/products/idobao-id67-65-hot-swappable-mechanical-keyboard-kit-1), [AliExpress](https://www.aliexpress.com/item/1005002871249832.html)  -->
   - v2 - [Idobao.net](https://idobao.net/collections/65-layout/products/idobao-id67v2-65-hot-swappable-mechanical-keyboard-kit), [AliExpress](https://www.aliexpress.com/item/1005002941870319.html)
